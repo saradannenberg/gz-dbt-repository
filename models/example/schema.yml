@@ -5,7 +5,9 @@ sources:
   - name: gz_raw_data
     tables: 
       - name: raw_gz_product
-
-
-
-
+  - name: gz_raw_data
+    tables: 
+      - name: raw_gz_sales
+  - name: gz_raw_data
+    tables: 
+      - name: raw_gz_ship
